@@ -29,7 +29,7 @@ pip install pandas torch transformers scikit-learn numpy matplotlib
 ```
 ### 3️⃣ Run the System
 ```sh
-python recommend.py
+python simple-matplotlib-visualization-tips.ipynb
 ```
 
 ## 📜 How It Works
@@ -79,7 +79,7 @@ with plt.xkcd():
 ## 📜 File Structure
 ```
 📁 Movie-Recommendation-System-BERT
-│── 📄 recommend.py  # Main script for recommendations
+│── 📄 simple-matplotlib-visualization-tips.ipynb  # Main script for recommendations
 │── 📄 netflix_titles.csv  # Dataset
 │── 📄 requirements.txt  # Dependencies
 │── 📄 README.md  # Project documentation
