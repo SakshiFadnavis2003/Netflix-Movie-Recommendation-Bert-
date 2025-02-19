@@ -83,7 +83,6 @@ with plt.xkcd():
 │── 📄 netflix_titles.csv  # Dataset
 │── 📄 requirements.txt  # Dependencies
 │── 📄 README.md  # Project documentation
-└── 📄 xkcd_plot.py  # Optional: XKCD-style visualization
 ```
 
 ## 🏆 Future Improvements
